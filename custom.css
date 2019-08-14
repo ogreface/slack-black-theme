@@ -496,12 +496,12 @@ p-search_filter__date:first-child {
     color: white;
 }
 .c-message--light .c-message__sender .c-message__sender_link {
-    color: #a4d677 !important;
+    color: #888 !important;
     font-weight: 700 !important;
     font-size: 14px !important;
 }
 .light_theme ts-message .message_content .message_sender {
-    color:  #a4d677 !important;
+    color:  #888 !important;
     text-transform: capitalize;
     font-weight: 700 !important;
 }
@@ -966,7 +966,7 @@ color:white !important;
     color: #ffb088 !important;
 }
 .c-message__sender{
-color:#a4d677 !important
+color:#888 !important
 }
     .c-dialog__footer .c-button {
         background-color: #2ead5c;
@@ -976,7 +976,7 @@ color:#a4d677 !important
             color: #ffffff !important;
         }
         a.c-message__sender_link{
-            color: #a4d677 !important;
+            color: #888 !important;
         }
         .ql-editor[aria-label]{
             color: white !important;
