@@ -1,7 +1,5 @@
 body {
-    text-rendering: optimizeLegibility important;
-    word-spacing: -1px;
-    -webkit-font-smoothing: auto;
+
 }
 .p-member_directory__search_filter_container{
  background-color: #1a1a1a !important;
