@@ -1,6 +1,20 @@
 body {
 
 }
+.workspace__primary_view_footer{
+background:#222222 !important
+}
+.p-dm_browser_modal__list_row--active {
+    background-color:black !important;}
+.c-sk-modal_header, .c-sk-modal_footer{
+background:#222222 !important}
+.p-call_subtype__body, .p-call_subtype__footer {
+    border-top: 1px solid #ddd;
+    background-color: #474747;
+    color: white !important;}
+.p-channel_details__apps_section .p-channel_details_section__icon {
+    color: #8f9b36;}
+
 .p-member_directory__search_filter_container{
  background-color: #1a1a1a !important;
 }
